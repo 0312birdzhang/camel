@@ -5,6 +5,8 @@ Camel - a soft load balance midware
 
 [Camel](https://github.com/leonindy/camel) 是大众点评开发的软负载一体解决方案，承担了F5硬负载层后的软负载工作。Camel已成为大众点评网络流量中必不可缺的一层。
 
+文档请见[Camel in Action](http://leonindy.coding.me/camel/)
+
 ![whole_picture](https://raw.githubusercontent.com/leonindy/camel/master/camel-admin/src/main/webapp/assets/images/whole_picture.png)
 
 Camel在大众点评的应用规模如下：
