@@ -25,7 +25,7 @@
         <element name="agent-vs-list-url-pattern" value-type="String"
                  default-value="http://%s:3473/slb/agent/nginx?op=vslist"/>
         <element name="agent-remove-vs-url-pattern" value-type="String"
-                 default-value="http://%s:3473/slb/agent/nginx?op=delvs?vs=%s"/>
+                 default-value="http://%s:3473/slb/agent/nginx?op=delvs&amp;vs=%s"/>
         <element name="agent-reload-url-pattern" value-type="String"
                  default-value="http://%s:3473/slb/agent/nginx?op=reload"/>
         <element name="deploy-getlog-retrycount" value-type="int" primitive="true" default-value="10"/>
