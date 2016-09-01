@@ -38,3 +38,7 @@ Camel项目由`camel-admin`, `Dengine`\(基于Tengine开发的Web服务器\), `c
 3. `camel-agent`:
 
   部署在Nginx服务器上，管理本机的Nginx进程与配置文件。
+
+Camel使用流程如下：
+
+![component](https://raw.githubusercontent.com/leonindy/camel/master/camel-admin/src/main/webapp/assets/images/over_all.gif)
