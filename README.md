@@ -1,9 +1,12 @@
 Camel - a soft load balance midware
 ================
 
+#### 该项目的主Repo移至[Dianping Camel](https://github.com/dianping/camel)，请关注主Repo。
+
 ![logo](https://raw.githubusercontent.com/leonindy/camel/master/camel-admin/src/main/webapp/assets/images/camel_logo_blue.png)
 
-[Camel](https://github.com/leonindy/camel) 是大众点评开发的软负载一体解决方案，承担了F5硬负载层后的软负载工作。Camel已成为大众点评网络流量中必不可缺的一层。
+[Camel](https://github.com/dianping/camel) 是大众点评开发的软负载一体解决方案，承担了F5硬负载层后的软负载工作。Camel已成为大众点评网络流量中必不可缺的一层。
+>>>>>>> b4276790d4ea8d5ad919d7b3aa28577e6436c117
 
 关于Camel的部署及使用，请参考`Camel in Action`: [国内](http://leonindy.coding.me/camel_in_action/)  [国外](http://leonindy.github.io/camel_in_action/)
 

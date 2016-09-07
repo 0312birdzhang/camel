@@ -13,8 +13,13 @@
             <property name="suppressDate" value="true"/>
         </commentGenerator>
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+<<<<<<< HEAD
                         connectionURL="jdbc:mysql://192.168.6.238:3306/phoenixlb?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;noAccessToProcedureBodies=true"
                         userId="powerdns" password="powerdns">
+=======
+                        connectionURL="jdbc:mysql://localhost:3306/phoenix-lb?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;noAccessToProcedureBodies=true"
+                        userId="root" password="123456">
+>>>>>>> b4276790d4ea8d5ad919d7b3aa28577e6436c117
         </jdbcConnection>
         <javaTypeResolver>
             <property name="forceBigDecimals" value="false"/>
@@ -81,8 +86,13 @@
             <property name="suppressDate" value="true"/>
         </commentGenerator>
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+<<<<<<< HEAD
                         connectionURL="jdbc:mysql://192.168.6.238:3306/phoenixlb?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;noAccessToProcedureBodies=true"
                         userId="powerdns" password="powerdns">
+=======
+                        connectionURL="jdbc:mysql://localhost:3306/phoenix-lb?useUnicode=true&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;noAccessToProcedureBodies=true"
+                        userId="root" password="123456">
+>>>>>>> b4276790d4ea8d5ad919d7b3aa28577e6436c117
         </jdbcConnection>
         <javaTypeResolver>
             <property name="forceBigDecimals" value="false"/>
